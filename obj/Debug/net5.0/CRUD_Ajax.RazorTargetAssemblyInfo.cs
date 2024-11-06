@@ -17,7 +17,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyProductAttribute("CRUD_Ajax")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+81b9c6fae2582b704acae004abb1f76eb7b00b72")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CRUD_Ajax.Views")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 

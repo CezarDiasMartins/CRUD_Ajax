@@ -75,3 +75,4 @@ E:\Cezar\Workspaces\CRUD_Ajax\obj\Debug\net5.0\refint\CRUD_Ajax.dll
 E:\Cezar\Workspaces\CRUD_Ajax\obj\Debug\net5.0\CRUD_Ajax.pdb
 E:\Cezar\Workspaces\CRUD_Ajax\obj\Debug\net5.0\CRUD_Ajax.genruntimeconfig.cache
 E:\Cezar\Workspaces\CRUD_Ajax\obj\Debug\net5.0\ref\CRUD_Ajax.dll
+E:\Cezar\Workspaces\CRUD_Ajax\obj\Debug\net5.0\CRUD_Ajax.sourcelink.json
